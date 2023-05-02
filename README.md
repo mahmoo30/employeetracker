@@ -32,7 +32,7 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-![LIVE LINK](https://drive.google.com/file/d/1qmLa9xrAlR2lRp42an9IkdLnBdiEMgaj/view)
+[LIVE LINK](https://drive.google.com/file/d/1qmLa9xrAlR2lRp42an9IkdLnBdiEMgaj/view)
 
 ## 💾 Installed Dependencies
     "console.table": "^0.10.0",
